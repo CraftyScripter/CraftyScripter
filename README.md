@@ -1,15 +1,69 @@
 # 💫 About Me:
-⚡ I don’t just write code, I build solutions that work<br><br>🐍 I have strong expertise in Python, building scalable backends with FastAPI, and have developed multiple real-world projects including web scrapers, automation tools (like file organizers), and efficient API systems<br><br>If you want it sharper and less generic:<br><br>🐍 Python developer with solid FastAPI backend experience, built practical tools like web scrapers, file automation systems, and high-performance APIs<br><br>If you want to stand out (not sound like everyone else), use this:<br><br>🐍 I build things with Python — FastAPI backends, automation scripts, and tools that actually solve problems (web scraping, file management, APIs)
 
+⚡ Backend Engineer who builds systems that actually solve problems
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=CraftyScripter&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CraftyScripter&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CraftyScripter&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I specialize in **Python (FastAPI) and Node.js (Express)** — building scalable backend systems, automation tools, and data extraction platforms that work in production.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=CraftyScripter&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I've Built
+
+| Category | What I Do |
+|----------|-----------|
+| 🕸️ **Web Scraping** | Extract structured data from complex, dynamic websites |
+| ⚙️ **Automation** | Eliminate repetitive workflows with custom scripts & bots |
+| 🔐 **Backend APIs** | Secure, scalable systems with auth, roles & clean architecture |
+| 📊 **Data Pipelines** | Web + PDF → meaningful structured data |
+
+---
+
+## 🧠 What I Care About
+
+> Clean architecture · Efficient, maintainable code · Simple solutions to real problems
+
+---
+
+## 💻 Tech Stack
+
+### Core Backend
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Automation & Data
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Highlight Projects
+
+- 🔹 **Data Extraction Platform** — Web + PDF → Structured Data
+- 🔹 **Scalable FastAPI Backend** — Auth + Role System + Admin APIs
+- 🔹 **Automation Toolkit** — File management + workflow bots
+- 🔹 **Advanced Web Scraper** — Dynamic sites, anti-bot handling
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=CraftyScripter&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=CraftyScripter&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=CraftyScripter&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 🤝 Let's Build Something Useful
+
+Open to **real-world problems**, backend systems, and automation-heavy projects.
