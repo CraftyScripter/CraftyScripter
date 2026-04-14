@@ -56,14 +56,14 @@ I specialize in **Python (FastAPI) and Node.js (Express)** — building scalable
 
 ---
 
+## 🤝 Let's Build Something Useful
+
+Open to **real-world problems**, backend systems, and automation-heavy projects.
+
+---
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=CraftyScripter&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=CraftyScripter&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CraftyScripter&theme=dark&hide_border=true&layout=compact)
 
----
-
-## 🤝 Let's Build Something Useful
-
-Open to **real-world problems**, backend systems, and automation-heavy projects.
